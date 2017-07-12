@@ -4,7 +4,7 @@
 - Developed an interactive web page (HTML/javascript) for users to search restaurants, update preference and view recommended restaurants.
 - Developed a web service using (Java servlet, REST API) to fetch restaurant data from Yelp API.
 - Utilized MySQL/MongoDB to store user preference and restaurant information. 
-- Improved recommendation precision/recall by developing a collaborative filtering algorithm and matched similar restaurants based on categories [提出challenge].
+- Improved recommendation precision/recall by developing a collaborative filtering algorithm and matched similar restaurants based on categories.
 - Tested the webservice and app with unit tests (JUnit) and load test (JMeter).
 
 
